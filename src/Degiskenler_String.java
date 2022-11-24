@@ -18,5 +18,9 @@ public class Degiskenler_String {
                 "Programlama"+
                 "Dili";//boyle alt alta tanımlanabilir
         System.out.println(z);
+        String ssd=new String();
+        Integer asa=4;
+        ssd=asa.toString();
+        System.out.println(ssd);
     }
 }

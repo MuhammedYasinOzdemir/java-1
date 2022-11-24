@@ -20,6 +20,7 @@ public class Main {
             System.out.println("Belrisiz");
     }
     public static  void kontrol2(Object a){
+
         if (a instanceof String){
             String b=(String) a;
             System.out.println(b);//casting yaparak turunu belirmeliyiz bir ust sınıfa erişirken
