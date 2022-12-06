@@ -1,6 +1,6 @@
 package Abstract;
 
-public class Daire extends Sekil{
+public class Daire extends Sekil {
     double yaricap;
 
     public Daire(String isim, double yaricap) {

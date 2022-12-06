@@ -1,0 +1,2002 @@
+********************* Filmler *********************
+
+	1. The Shawshank Redemption
+		Basroller :  Tim Robbins, Morgan Freeman
+		Yönetmen : Frank Darabont 
+		Yıl : 1994
+		İMDb Puanı : 9.2
+
+**************************************************
+
+	2. The Godfather
+		Basroller :  Marlon Brando, Al Pacino
+		Yönetmen : Francis Ford Coppola 
+		Yıl : 1972
+		İMDb Puanı : 9.2
+
+**************************************************
+
+	3. The Dark Knight
+		Basroller :  Christian Bale, Heath Ledger
+		Yönetmen : Christopher Nolan 
+		Yıl : 2008
+		İMDb Puanı : 9.0
+
+**************************************************
+
+	4. The Godfather Part II
+		Basroller :  Al Pacino, Robert De Niro
+		Yönetmen : Francis Ford Coppola 
+		Yıl : 1974
+		İMDb Puanı : 9.0
+
+**************************************************
+
+	5. 12 Angry Men
+		Basroller :  Henry Fonda, Lee J. Cobb
+		Yönetmen : Sidney Lumet 
+		Yıl : 1957
+		İMDb Puanı : 9.0
+
+**************************************************
+
+	6. Schindler's List
+		Basroller :  Liam Neeson, Ralph Fiennes
+		Yönetmen : Steven Spielberg 
+		Yıl : 1993
+		İMDb Puanı : 8.9
+
+**************************************************
+
+	7. The Lord of the Rings: The Return of the King
+		Basroller :  Elijah Wood, Viggo Mortensen
+		Yönetmen : Peter Jackson 
+		Yıl : 2003
+		İMDb Puanı : 8.9
+
+**************************************************
+
+	8. Pulp Fiction
+		Basroller :  John Travolta, Uma Thurman
+		Yönetmen : Quentin Tarantino 
+		Yıl : 1994
+		İMDb Puanı : 8.8
+
+**************************************************
+
+	9. The Lord of the Rings: The Fellowship of the Ring
+		Basroller :  Elijah Wood, Ian McKellen
+		Yönetmen : Peter Jackson 
+		Yıl : 2001
+		İMDb Puanı : 8.8
+
+**************************************************
+
+	10. Il buono, il brutto, il cattivo
+		Basroller :  Clint Eastwood, Eli Wallach
+		Yönetmen : Sergio Leone 
+		Yıl : 1966
+		İMDb Puanı : 8.8
+
+**************************************************
+
+	11. Forrest Gump
+		Basroller :  Tom Hanks, Robin Wright
+		Yönetmen : Robert Zemeckis 
+		Yıl : 1994
+		İMDb Puanı : 8.8
+
+**************************************************
+
+	12. Fight Club
+		Basroller :  Brad Pitt, Edward Norton
+		Yönetmen : David Fincher 
+		Yıl : 1999
+		İMDb Puanı : 8.7
+
+**************************************************
+
+	13. The Lord of the Rings: The Two Towers
+		Basroller :  Elijah Wood, Ian McKellen
+		Yönetmen : Peter Jackson 
+		Yıl : 2002
+		İMDb Puanı : 8.7
+
+**************************************************
+
+	14. Inception
+		Basroller :  Leonardo DiCaprio, Joseph Gordon-Levitt
+		Yönetmen : Christopher Nolan 
+		Yıl : 2010
+		İMDb Puanı : 8.7
+
+**************************************************
+
+	15. The Empire Strikes Back
+		Basroller :  Mark Hamill, Harrison Ford
+		Yönetmen : Irvin Kershner 
+		Yıl : 1980
+		İMDb Puanı : 8.7
+
+**************************************************
+
+	16. The Matrix
+		Basroller :  Keanu Reeves, Laurence Fishburne
+		Yönetmen : Lana Wachowski 
+		Yıl : 1999
+		İMDb Puanı : 8.7
+
+**************************************************
+
+	17. Goodfellas
+		Basroller :  Robert De Niro, Ray Liotta
+		Yönetmen : Martin Scorsese 
+		Yıl : 1990
+		İMDb Puanı : 8.7
+
+**************************************************
+
+	18. One Flew Over the Cuckoo's Nest
+		Basroller :  Jack Nicholson, Louise Fletcher
+		Yönetmen : Milos Forman 
+		Yıl : 1975
+		İMDb Puanı : 8.6
+
+**************************************************
+
+	19. Se7en
+		Basroller :  Morgan Freeman, Brad Pitt
+		Yönetmen : David Fincher 
+		Yıl : 1995
+		İMDb Puanı : 8.6
+
+**************************************************
+
+	20. Shichinin no samurai
+		Basroller :  Toshirô Mifune, Takashi Shimura
+		Yönetmen : Akira Kurosawa 
+		Yıl : 1954
+		İMDb Puanı : 8.6
+
+**************************************************
+
+	21. It's a Wonderful Life
+		Basroller :  James Stewart, Donna Reed
+		Yönetmen : Frank Capra 
+		Yıl : 1946
+		İMDb Puanı : 8.6
+
+**************************************************
+
+	22. The Silence of the Lambs
+		Basroller :  Jodie Foster, Anthony Hopkins
+		Yönetmen : Jonathan Demme 
+		Yıl : 1991
+		İMDb Puanı : 8.6
+
+**************************************************
+
+	23. Cidade de Deus
+		Basroller :  Alexandre Rodrigues, Leandro Firmino
+		Yönetmen : Fernando Meirelles 
+		Yıl : 2002
+		İMDb Puanı : 8.6
+
+**************************************************
+
+	24. Saving Private Ryan
+		Basroller :  Tom Hanks, Matt Damon
+		Yönetmen : Steven Spielberg 
+		Yıl : 1998
+		İMDb Puanı : 8.6
+
+**************************************************
+
+	25. La vita è bella
+		Basroller :  Roberto Benigni, Nicoletta Braschi
+		Yönetmen : Roberto Benigni 
+		Yıl : 1997
+		İMDb Puanı : 8.6
+
+**************************************************
+
+	26. Interstellar
+		Basroller :  Matthew McConaughey, Anne Hathaway
+		Yönetmen : Christopher Nolan 
+		Yıl : 2014
+		İMDb Puanı : 8.6
+
+**************************************************
+
+	27. The Green Mile
+		Basroller :  Tom Hanks, Michael Clarke Duncan
+		Yönetmen : Frank Darabont 
+		Yıl : 1999
+		İMDb Puanı : 8.6
+
+**************************************************
+
+	28. Star Wars
+		Basroller :  Mark Hamill, Harrison Ford
+		Yönetmen : George Lucas 
+		Yıl : 1977
+		İMDb Puanı : 8.6
+
+**************************************************
+
+	29. Terminator 2: Judgment Day
+		Basroller :  Arnold Schwarzenegger, Linda Hamilton
+		Yönetmen : James Cameron 
+		Yıl : 1991
+		İMDb Puanı : 8.5
+
+**************************************************
+
+	30. Back to the Future
+		Basroller :  Michael J. Fox, Christopher Lloyd
+		Yönetmen : Robert Zemeckis 
+		Yıl : 1985
+		İMDb Puanı : 8.5
+
+**************************************************
+
+	31. Sen to Chihiro no kamikakushi
+		Basroller :  Daveigh Chase, Suzanne Pleshette
+		Yönetmen : Hayao Miyazaki 
+		Yıl : 2001
+		İMDb Puanı : 8.5
+
+**************************************************
+
+	32. Psycho
+		Basroller :  Anthony Perkins, Janet Leigh
+		Yönetmen : Alfred Hitchcock 
+		Yıl : 1960
+		İMDb Puanı : 8.5
+
+**************************************************
+
+	33. The Pianist
+		Basroller :  Adrien Brody, Thomas Kretschmann
+		Yönetmen : Roman Polanski 
+		Yıl : 2002
+		İMDb Puanı : 8.5
+
+**************************************************
+
+	34. Gisaengchung
+		Basroller :  Song Kang-ho, Lee Sun-kyun
+		Yönetmen : Bong Joon Ho 
+		Yıl : 2019
+		İMDb Puanı : 8.5
+
+**************************************************
+
+	35. Léon
+		Basroller :  Jean Reno, Gary Oldman
+		Yönetmen : Luc Besson 
+		Yıl : 1994
+		İMDb Puanı : 8.5
+
+**************************************************
+
+	36. The Lion King
+		Basroller :  Matthew Broderick, Jeremy Irons
+		Yönetmen : Roger Allers 
+		Yıl : 1994
+		İMDb Puanı : 8.5
+
+**************************************************
+
+	37. Gladiator
+		Basroller :  Russell Crowe, Joaquin Phoenix
+		Yönetmen : Ridley Scott 
+		Yıl : 2000
+		İMDb Puanı : 8.5
+
+**************************************************
+
+	38. American History X
+		Basroller :  Edward Norton, Edward Furlong
+		Yönetmen : Tony Kaye 
+		Yıl : 1998
+		İMDb Puanı : 8.5
+
+**************************************************
+
+	39. The Departed
+		Basroller :  Leonardo DiCaprio, Matt Damon
+		Yönetmen : Martin Scorsese 
+		Yıl : 2006
+		İMDb Puanı : 8.5
+
+**************************************************
+
+	40. The Usual Suspects
+		Basroller :  Kevin Spacey, Gabriel Byrne
+		Yönetmen : Bryan Singer 
+		Yıl : 1995
+		İMDb Puanı : 8.5
+
+**************************************************
+
+	41. The Prestige
+		Basroller :  Christian Bale, Hugh Jackman
+		Yönetmen : Christopher Nolan 
+		Yıl : 2006
+		İMDb Puanı : 8.5
+
+**************************************************
+
+	42. Whiplash
+		Basroller :  Miles Teller, J.K. Simmons
+		Yönetmen : Damien Chazelle 
+		Yıl : 2014
+		İMDb Puanı : 8.5
+
+**************************************************
+
+	43. Casablanca
+		Basroller :  Humphrey Bogart, Ingrid Bergman
+		Yönetmen : Michael Curtiz 
+		Yıl : 1942
+		İMDb Puanı : 8.5
+
+**************************************************
+
+	44. Seppuku
+		Basroller :  Tatsuya Nakadai, Akira Ishihama
+		Yönetmen : Masaki Kobayashi 
+		Yıl : 1962
+		İMDb Puanı : 8.5
+
+**************************************************
+
+	45. The Intouchables
+		Basroller :  François Cluzet, Omar Sy
+		Yönetmen : Olivier Nakache 
+		Yıl : 2011
+		İMDb Puanı : 8.5
+
+**************************************************
+
+	46. Hotaru no haka
+		Basroller :  Tsutomu Tatsumi, Ayano Shiraishi
+		Yönetmen : Isao Takahata 
+		Yıl : 1988
+		İMDb Puanı : 8.5
+
+**************************************************
+
+	47. Modern Times
+		Basroller :  Charles Chaplin, Paulette Goddard
+		Yönetmen : Charles Chaplin 
+		Yıl : 1936
+		İMDb Puanı : 8.4
+
+**************************************************
+
+	48. Once Upon a Time in the West
+		Basroller :  Henry Fonda, Charles Bronson
+		Yönetmen : Sergio Leone 
+		Yıl : 1968
+		İMDb Puanı : 8.4
+
+**************************************************
+
+	49. Rear Window
+		Basroller :  James Stewart, Grace Kelly
+		Yönetmen : Alfred Hitchcock 
+		Yıl : 1954
+		İMDb Puanı : 8.4
+
+**************************************************
+
+	50. Nuovo Cinema Paradiso
+		Basroller :  Philippe Noiret, Enzo Cannavale
+		Yönetmen : Giuseppe Tornatore 
+		Yıl : 1988
+		İMDb Puanı : 8.4
+
+**************************************************
+
+	51. Alien
+		Basroller :  Sigourney Weaver, Tom Skerritt
+		Yönetmen : Ridley Scott 
+		Yıl : 1979
+		İMDb Puanı : 8.4
+
+**************************************************
+
+	52. City Lights
+		Basroller :  Charles Chaplin, Virginia Cherrill
+		Yönetmen : Charles Chaplin 
+		Yıl : 1931
+		İMDb Puanı : 8.4
+
+**************************************************
+
+	53. Apocalypse Now
+		Basroller :  Martin Sheen, Marlon Brando
+		Yönetmen : Francis Ford Coppola 
+		Yıl : 1979
+		İMDb Puanı : 8.4
+
+**************************************************
+
+	54. Memento
+		Basroller :  Guy Pearce, Carrie-Anne Moss
+		Yönetmen : Christopher Nolan 
+		Yıl : 2000
+		İMDb Puanı : 8.4
+
+**************************************************
+
+	55. Raiders of the Lost Ark
+		Basroller :  Harrison Ford, Karen Allen
+		Yönetmen : Steven Spielberg 
+		Yıl : 1981
+		İMDb Puanı : 8.4
+
+**************************************************
+
+	56. Django Unchained
+		Basroller :  Jamie Foxx, Christoph Waltz
+		Yönetmen : Quentin Tarantino 
+		Yıl : 2012
+		İMDb Puanı : 8.4
+
+**************************************************
+
+	57. WALL·E
+		Basroller :  Ben Burtt, Elissa Knight
+		Yönetmen : Andrew Stanton 
+		Yıl : 2008
+		İMDb Puanı : 8.4
+
+**************************************************
+
+	58. The Lives of Others
+		Basroller :  Ulrich Mühe, Martina Gedeck
+		Yönetmen : Florian Henckel von Donnersmarck 
+		Yıl : 2006
+		İMDb Puanı : 8.4
+
+**************************************************
+
+	59. Sunset Blvd.
+		Basroller :  William Holden, Gloria Swanson
+		Yönetmen : Billy Wilder 
+		Yıl : 1950
+		İMDb Puanı : 8.4
+
+**************************************************
+
+	60. Paths of Glory
+		Basroller :  Kirk Douglas, Ralph Meeker
+		Yönetmen : Stanley Kubrick 
+		Yıl : 1957
+		İMDb Puanı : 8.4
+
+**************************************************
+
+	61. The Great Dictator
+		Basroller :  Charles Chaplin, Paulette Goddard
+		Yönetmen : Charles Chaplin 
+		Yıl : 1940
+		İMDb Puanı : 8.4
+
+**************************************************
+
+	62. The Shining
+		Basroller :  Jack Nicholson, Shelley Duvall
+		Yönetmen : Stanley Kubrick 
+		Yıl : 1980
+		İMDb Puanı : 8.4
+
+**************************************************
+
+	63. Avengers: Infinity War
+		Basroller :  Robert Downey Jr., Chris Hemsworth
+		Yönetmen : Anthony Russo 
+		Yıl : 2018
+		İMDb Puanı : 8.4
+
+**************************************************
+
+	64. Witness for the Prosecution
+		Basroller :  Tyrone Power, Marlene Dietrich
+		Yönetmen : Billy Wilder 
+		Yıl : 1957
+		İMDb Puanı : 8.4
+
+**************************************************
+
+	65. Aliens
+		Basroller :  Sigourney Weaver, Michael Biehn
+		Yönetmen : James Cameron 
+		Yıl : 1986
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	66. Spider-Man: Into the Spider-Verse
+		Basroller :  Shameik Moore, Jake Johnson
+		Yönetmen : Bob Persichetti 
+		Yıl : 2018
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	67. American Beauty
+		Basroller :  Kevin Spacey, Annette Bening
+		Yönetmen : Sam Mendes 
+		Yıl : 1999
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	68. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+		Basroller :  Peter Sellers, George C. Scott
+		Yönetmen : Stanley Kubrick 
+		Yıl : 1964
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	69. The Dark Knight Rises
+		Basroller :  Christian Bale, Tom Hardy
+		Yönetmen : Christopher Nolan 
+		Yıl : 2012
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	70. Oldeuboi
+		Basroller :  Choi Min-sik, Yoo Ji-tae
+		Yönetmen : Park Chan-wook 
+		Yıl : 2003
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	71. Amadeus
+		Basroller :  F. Murray Abraham, Tom Hulce
+		Yönetmen : Milos Forman 
+		Yıl : 1984
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	72. Joker
+		Basroller :  Joaquin Phoenix, Robert De Niro
+		Yönetmen : Todd Phillips 
+		Yıl : 2019
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	73. Inglourious Basterds
+		Basroller :  Brad Pitt, Diane Kruger
+		Yönetmen : Quentin Tarantino 
+		Yıl : 2009
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	74. Coco
+		Basroller :  Anthony Gonzalez, Gael García Bernal
+		Yönetmen : Lee Unkrich 
+		Yıl : 2017
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	75. Toy Story
+		Basroller :  Tom Hanks, Tim Allen
+		Yönetmen : John Lasseter 
+		Yıl : 1995
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	76. Braveheart
+		Basroller :  Mel Gibson, Sophie Marceau
+		Yönetmen : Mel Gibson 
+		Yıl : 1995
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	77. Das Boot
+		Basroller :  Jürgen Prochnow, Herbert Grönemeyer
+		Yönetmen : Wolfgang Petersen 
+		Yıl : 1981
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	78. Avengers: Endgame
+		Basroller :  Robert Downey Jr., Chris Evans
+		Yönetmen : Anthony Russo 
+		Yıl : 2019
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	79. Mononoke-hime
+		Basroller :  Yôji Matsuda, Yuriko Ishida
+		Yönetmen : Hayao Miyazaki 
+		Yıl : 1997
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	80. Once Upon a Time in America
+		Basroller :  Robert De Niro, James Woods
+		Yönetmen : Sergio Leone 
+		Yıl : 1984
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	81. Good Will Hunting
+		Basroller :  Robin Williams, Matt Damon
+		Yönetmen : Gus Van Sant 
+		Yıl : 1997
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	82. Top Gun: Maverick
+		Basroller :  Tom Cruise, Jennifer Connelly
+		Yönetmen : Joseph Kosinski 
+		Yıl : 2022
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	83. Kimi no Na wa.
+		Basroller :  Ryûnosuke Kamiki, Mone Kamishiraishi
+		Yönetmen : Makoto Shinkai 
+		Yıl : 2016
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	84. Requiem for a Dream
+		Basroller :  Ellen Burstyn, Jared Leto
+		Yönetmen : Darren Aronofsky 
+		Yıl : 2000
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	85. 3 Idiots
+		Basroller :  Aamir Khan, Madhavan
+		Yönetmen : Rajkumar Hirani 
+		Yıl : 2009
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	86. Singin' in the Rain
+		Basroller :  Gene Kelly, Donald O'Connor
+		Yönetmen : Stanley Donen 
+		Yıl : 1952
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	87. Toy Story 3
+		Basroller :  Tom Hanks, Tim Allen
+		Yönetmen : Lee Unkrich 
+		Yıl : 2010
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	88. Tengoku to jigoku
+		Basroller :  Toshirô Mifune, Yutaka Sada
+		Yönetmen : Akira Kurosawa 
+		Yıl : 1963
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	89. Star Wars: Episode VI - Return of the Jedi
+		Basroller :  Mark Hamill, Harrison Ford
+		Yönetmen : Richard Marquand 
+		Yıl : 1983
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	90. Capharnaüm
+		Basroller :  Zain Al Rafeea, Yordanos Shiferaw
+		Yönetmen : Nadine Labaki 
+		Yıl : 2018
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	91. Eternal Sunshine of the Spotless Mind
+		Basroller :  Jim Carrey, Kate Winslet
+		Yönetmen : Michel Gondry 
+		Yıl : 2004
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	92. 2001: A Space Odyssey
+		Basroller :  Keir Dullea, Gary Lockwood
+		Yönetmen : Stanley Kubrick 
+		Yıl : 1968
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	93. Reservoir Dogs
+		Basroller :  Harvey Keitel, Tim Roth
+		Yönetmen : Quentin Tarantino 
+		Yıl : 1992
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	94. Jagten
+		Basroller :  Mads Mikkelsen, Thomas Bo Larsen
+		Yönetmen : Thomas Vinterberg 
+		Yıl : 2012
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	95. Idi i smotri
+		Basroller :  Aleksey Kravchenko, Olga Mironova
+		Yönetmen : Elem Klimov 
+		Yıl : 1985
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	96. Citizen Kane
+		Basroller :  Orson Welles, Joseph Cotten
+		Yönetmen : Orson Welles 
+		Yıl : 1941
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	97. M - Eine Stadt sucht einen Mörder
+		Basroller :  Peter Lorre, Ellen Widmann
+		Yönetmen : Fritz Lang 
+		Yıl : 1931
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	98. Lawrence of Arabia
+		Basroller :  Peter O'Toole, Alec Guinness
+		Yönetmen : David Lean 
+		Yıl : 1962
+		İMDb Puanı : 8.3
+
+**************************************************
+
+	99. North by Northwest
+		Basroller :  Cary Grant, Eva Marie Saint
+		Yönetmen : Alfred Hitchcock 
+		Yıl : 1959
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	100. Vertigo
+		Basroller :  James Stewart, Kim Novak
+		Yönetmen : Alfred Hitchcock 
+		Yıl : 1958
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	101. Le fabuleux destin d'Amélie Poulain
+		Basroller :  Audrey Tautou, Mathieu Kassovitz
+		Yönetmen : Jean-Pierre Jeunet 
+		Yıl : 2001
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	102. A Clockwork Orange
+		Basroller :  Malcolm McDowell, Patrick Magee
+		Yönetmen : Stanley Kubrick 
+		Yıl : 1971
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	103. The Apartment
+		Basroller :  Jack Lemmon, Shirley MacLaine
+		Yönetmen : Billy Wilder 
+		Yıl : 1960
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	104. Ikiru
+		Basroller :  Takashi Shimura, Nobuo Kaneko
+		Yönetmen : Akira Kurosawa 
+		Yıl : 1952
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	105. Double Indemnity
+		Basroller :  Fred MacMurray, Barbara Stanwyck
+		Yönetmen : Billy Wilder 
+		Yıl : 1944
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	106. Full Metal Jacket
+		Basroller :  Matthew Modine, R. Lee Ermey
+		Yönetmen : Stanley Kubrick 
+		Yıl : 1987
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	107. Hamilton
+		Basroller :  Lin-Manuel Miranda, Phillipa Soo
+		Yönetmen : Thomas Kail 
+		Yıl : 2020
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	108. Scarface
+		Basroller :  Al Pacino, Michelle Pfeiffer
+		Yönetmen : Brian De Palma 
+		Yıl : 1983
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	109. The Sting
+		Basroller :  Paul Newman, Robert Redford
+		Yönetmen : George Roy Hill 
+		Yıl : 1973
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	110. To Kill a Mockingbird
+		Basroller :  Gregory Peck, John Megna
+		Yönetmen : Robert Mulligan 
+		Yıl : 1962
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	111. Incendies
+		Basroller :  Lubna Azabal, Mélissa Désormeaux-Poulin
+		Yönetmen : Denis Villeneuve 
+		Yıl : 2010
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	112. Up
+		Basroller :  Edward Asner, Jordan Nagai
+		Yönetmen : Pete Docter 
+		Yıl : 2009
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	113. Heat
+		Basroller :  Al Pacino, Robert De Niro
+		Yönetmen : Michael Mann 
+		Yıl : 1995
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	114. Taxi Driver
+		Basroller :  Robert De Niro, Jodie Foster
+		Yönetmen : Martin Scorsese 
+		Yıl : 1976
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	115. Jodaeiye Nader az Simin
+		Basroller :  Payman Maadi, Leila Hatami
+		Yönetmen : Asghar Farhadi 
+		Yıl : 2011
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	116. Metropolis
+		Basroller :  Brigitte Helm, Alfred Abel
+		Yönetmen : Fritz Lang 
+		Yıl : 1927
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	117. L.A. Confidential
+		Basroller :  Kevin Spacey, Russell Crowe
+		Yönetmen : Curtis Hanson 
+		Yıl : 1997
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	118. Snatch
+		Basroller :  Jason Statham, Brad Pitt
+		Yönetmen : Guy Ritchie 
+		Yıl : 2000
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	119. Die Hard
+		Basroller :  Bruce Willis, Alan Rickman
+		Yönetmen : John McTiernan 
+		Yıl : 1988
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	120. Ladri di biciclette
+		Basroller :  Lamberto Maggiorani, Enzo Staiola
+		Yönetmen : Vittorio De Sica 
+		Yıl : 1948
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	121. Indiana Jones and the Last Crusade
+		Basroller :  Harrison Ford, Sean Connery
+		Yönetmen : Steven Spielberg 
+		Yıl : 1989
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	122. Taare Zameen Par
+		Basroller :  Darsheel Safary, Aamir Khan
+		Yönetmen : Aamir Khan 
+		Yıl : 2007
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	123. 1917
+		Basroller :  Dean-Charles Chapman, George MacKay
+		Yönetmen : Sam Mendes 
+		Yıl : 2019
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	124. Der Untergang
+		Basroller :  Bruno Ganz, Alexandra Maria Lara
+		Yönetmen : Oliver Hirschbiegel 
+		Yıl : 2004
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	125. Per qualche dollaro in più
+		Basroller :  Clint Eastwood, Lee Van Cleef
+		Yönetmen : Sergio Leone 
+		Yıl : 1965
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	126. Dangal
+		Basroller :  Aamir Khan, Sakshi Tanwar
+		Yönetmen : Nitesh Tiwari 
+		Yıl : 2016
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	127. Batman Begins
+		Basroller :  Christian Bale, Michael Caine
+		Yönetmen : Christopher Nolan 
+		Yıl : 2005
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	128. The Kid
+		Basroller :  Charles Chaplin, Edna Purviance
+		Yönetmen : Charles Chaplin 
+		Yıl : 1921
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	129. Some Like It Hot
+		Basroller :  Marilyn Monroe, Tony Curtis
+		Yönetmen : Billy Wilder 
+		Yıl : 1959
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	130. The Father
+		Basroller :  Anthony Hopkins, Olivia Colman
+		Yönetmen : Florian Zeller 
+		Yıl : 2020
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	131. All About Eve
+		Basroller :  Bette Davis, Anne Baxter
+		Yönetmen : Joseph L. Mankiewicz 
+		Yıl : 1950
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	132. Green Book
+		Basroller :  Viggo Mortensen, Mahershala Ali
+		Yönetmen : Peter Farrelly 
+		Yıl : 2018
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	133. The Wolf of Wall Street
+		Basroller :  Leonardo DiCaprio, Jonah Hill
+		Yönetmen : Martin Scorsese 
+		Yıl : 2013
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	134. Judgment at Nuremberg
+		Basroller :  Spencer Tracy, Burt Lancaster
+		Yönetmen : Stanley Kramer 
+		Yıl : 1961
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	135. Ran
+		Basroller :  Tatsuya Nakadai, Akira Terao
+		Yönetmen : Akira Kurosawa 
+		Yıl : 1985
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	136. Casino
+		Basroller :  Robert De Niro, Sharon Stone
+		Yönetmen : Martin Scorsese 
+		Yıl : 1995
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	137. Pan's Labyrinth
+		Basroller :  Ivana Baquero, Ariadna Gil
+		Yönetmen : Guillermo del Toro 
+		Yıl : 2006
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	138. Unforgiven
+		Basroller :  Clint Eastwood, Gene Hackman
+		Yönetmen : Clint Eastwood 
+		Yıl : 1992
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	139. There Will Be Blood
+		Basroller :  Daniel Day-Lewis, Paul Dano
+		Yönetmen : Paul Thomas Anderson 
+		Yıl : 2007
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	140. The Truman Show
+		Basroller :  Jim Carrey, Ed Harris
+		Yönetmen : Peter Weir 
+		Yıl : 1998
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	141. The Sixth Sense
+		Basroller :  Bruce Willis, Haley Joel Osment
+		Yönetmen : M. Night Shyamalan 
+		Yıl : 1999
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	142. A Beautiful Mind
+		Basroller :  Russell Crowe, Ed Harris
+		Yönetmen : Ron Howard 
+		Yıl : 2001
+		İMDb Puanı : 8.2
+
+**************************************************
+
+	143. Yôjinbô
+		Basroller :  Toshirô Mifune, Eijirô Tôno
+		Yönetmen : Akira Kurosawa 
+		Yıl : 1961
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	144. Spider-Man: No Way Home
+		Basroller :  Tom Holland, Zendaya
+		Yönetmen : Jon Watts 
+		Yıl : 2021
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	145. Shutter Island
+		Basroller :  Leonardo DiCaprio, Emily Mortimer
+		Yönetmen : Martin Scorsese 
+		Yıl : 2010
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	146. Monty Python and the Holy Grail
+		Basroller :  Graham Chapman, John Cleese
+		Yönetmen : Terry Gilliam 
+		Yıl : 1975
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	147. The Treasure of the Sierra Madre
+		Basroller :  Humphrey Bogart, Walter Huston
+		Yönetmen : John Huston 
+		Yıl : 1948
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	148. Jurassic Park
+		Basroller :  Sam Neill, Laura Dern
+		Yönetmen : Steven Spielberg 
+		Yıl : 1993
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	149. The Great Escape
+		Basroller :  Steve McQueen, James Garner
+		Yönetmen : John Sturges 
+		Yıl : 1963
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	150. Rashômon
+		Basroller :  Toshirô Mifune, Machiko Kyô
+		Yönetmen : Akira Kurosawa 
+		Yıl : 1950
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	151. Kill Bill: Vol. 1
+		Basroller :  Uma Thurman, David Carradine
+		Yönetmen : Quentin Tarantino 
+		Yıl : 2003
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	152. No Country for Old Men
+		Basroller :  Tommy Lee Jones, Javier Bardem
+		Yönetmen : Ethan Coen 
+		Yıl : 2007
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	153. Finding Nemo
+		Basroller :  Albert Brooks, Ellen DeGeneres
+		Yönetmen : Andrew Stanton 
+		Yıl : 2003
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	154. The Thing
+		Basroller :  Kurt Russell, Wilford Brimley
+		Yönetmen : John Carpenter 
+		Yıl : 1982
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	155. The Elephant Man
+		Basroller :  Anthony Hopkins, John Hurt
+		Yönetmen : David Lynch 
+		Yıl : 1980
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	156. Chinatown
+		Basroller :  Jack Nicholson, Faye Dunaway
+		Yönetmen : Roman Polanski 
+		Yıl : 1974
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	157. Raging Bull
+		Basroller :  Robert De Niro, Cathy Moriarty
+		Yönetmen : Martin Scorsese 
+		Yıl : 1980
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	158. Gone with the Wind
+		Basroller :  Clark Gable, Vivien Leigh
+		Yönetmen : Victor Fleming 
+		Yıl : 1939
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	159. V for Vendetta
+		Basroller :  Hugo Weaving, Natalie Portman
+		Yönetmen : James McTeigue 
+		Yıl : 2005
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	160. Inside Out
+		Basroller :  Amy Poehler, Bill Hader
+		Yönetmen : Pete Docter 
+		Yıl : 2015
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	161. Lock, Stock and Two Smoking Barrels
+		Basroller :  Jason Flemyng, Dexter Fletcher
+		Yönetmen : Guy Ritchie 
+		Yıl : 1998
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	162. Dial M for Murder
+		Basroller :  Ray Milland, Grace Kelly
+		Yönetmen : Alfred Hitchcock 
+		Yıl : 1954
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	163. El secreto de sus ojos
+		Basroller :  Ricardo Darín, Soledad Villamil
+		Yönetmen : Juan José Campanella 
+		Yıl : 2009
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	164. Hauru no ugoku shiro
+		Basroller :  Chieko Baishô, Takuya Kimura
+		Yönetmen : Hayao Miyazaki 
+		Yıl : 2004
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	165. The Bridge on the River Kwai
+		Basroller :  William Holden, Alec Guinness
+		Yönetmen : David Lean 
+		Yıl : 1957
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	166. Three Billboards Outside Ebbing, Missouri
+		Basroller :  Frances McDormand, Woody Harrelson
+		Yönetmen : Martin McDonagh 
+		Yıl : 2017
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	167. Trainspotting
+		Basroller :  Ewan McGregor, Ewen Bremner
+		Yönetmen : Danny Boyle 
+		Yıl : 1996
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	168. Warrior
+		Basroller :  Tom Hardy, Nick Nolte
+		Yönetmen : Gavin O'Connor 
+		Yıl : 2011
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	169. Fargo
+		Basroller :  William H. Macy, Frances McDormand
+		Yönetmen : Joel Coen 
+		Yıl : 1996
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	170. Gran Torino
+		Basroller :  Clint Eastwood, Bee Vang
+		Yönetmen : Clint Eastwood 
+		Yıl : 2008
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	171. Prisoners
+		Basroller :  Hugh Jackman, Jake Gyllenhaal
+		Yönetmen : Denis Villeneuve 
+		Yıl : 2013
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	172. Tonari no Totoro
+		Basroller :  Hitoshi Takagi, Noriko Hidaka
+		Yönetmen : Hayao Miyazaki 
+		Yıl : 1988
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	173. Catch Me If You Can
+		Basroller :  Leonardo DiCaprio, Tom Hanks
+		Yönetmen : Steven Spielberg 
+		Yıl : 2002
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	174. Million Dollar Baby
+		Basroller :  Hilary Swank, Clint Eastwood
+		Yönetmen : Clint Eastwood 
+		Yıl : 2004
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	175. Bacheha-Ye aseman
+		Basroller :  Mohammad Amir Naji, Amir Farrokh Hashemian
+		Yönetmen : Majid Majidi 
+		Yıl : 1997
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	176. The Gold Rush
+		Basroller :  Charles Chaplin, Mack Swain
+		Yönetmen : Charles Chaplin 
+		Yıl : 1925
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	177. Blade Runner
+		Basroller :  Harrison Ford, Rutger Hauer
+		Yönetmen : Ridley Scott 
+		Yıl : 1982
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	178. On the Waterfront
+		Basroller :  Marlon Brando, Karl Malden
+		Yönetmen : Elia Kazan 
+		Yıl : 1954
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	179. Before Sunrise
+		Basroller :  Ethan Hawke, Julie Delpy
+		Yönetmen : Richard Linklater 
+		Yıl : 1995
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	180. 12 Years a Slave
+		Basroller :  Chiwetel Ejiofor, Michael Kenneth Williams
+		Yönetmen : Steve McQueen 
+		Yıl : 2013
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	181. Harry Potter and the Deathly Hallows - Part 2
+		Basroller :  Daniel Radcliffe, Emma Watson
+		Yönetmen : David Yates 
+		Yıl : 2011
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	182. Ben-Hur
+		Basroller :  Charlton Heston, Jack Hawkins
+		Yönetmen : William Wyler 
+		Yıl : 1959
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	183. Smultronstället
+		Basroller :  Victor Sjöström, Bibi Andersson
+		Yönetmen : Ingmar Bergman 
+		Yıl : 1957
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	184. Gone Girl
+		Basroller :  Ben Affleck, Rosamund Pike
+		Yönetmen : David Fincher 
+		Yıl : 2014
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	185. The Third Man
+		Basroller :  Orson Welles, Joseph Cotten
+		Yönetmen : Carol Reed 
+		Yıl : 1949
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	186. The General
+		Basroller :  Buster Keaton, Marion Mack
+		Yönetmen : Clyde Bruckman 
+		Yıl : 1926
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	187. The Grand Budapest Hotel
+		Basroller :  Ralph Fiennes, F. Murray Abraham
+		Yönetmen : Wes Anderson 
+		Yıl : 2014
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	188. The Deer Hunter
+		Basroller :  Robert De Niro, Christopher Walken
+		Yönetmen : Michael Cimino 
+		Yıl : 1978
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	189. In the Name of the Father
+		Basroller :  Daniel Day-Lewis, Pete Postlethwaite
+		Yönetmen : Jim Sheridan 
+		Yıl : 1993
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	190. Barry Lyndon
+		Basroller :  Ryan O'Neal, Marisa Berenson
+		Yönetmen : Stanley Kubrick 
+		Yıl : 1975
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	191. Le salaire de la peur
+		Basroller :  Yves Montand, Charles Vanel
+		Yönetmen : Henri-Georges Clouzot 
+		Yıl : 1953
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	192. Klaus
+		Basroller :  Jason Schwartzman, J.K. Simmons
+		Yönetmen : Sergio Pablos 
+		Yıl : 2019
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	193. Hacksaw Ridge
+		Basroller :  Andrew Garfield, Sam Worthington
+		Yönetmen : Mel Gibson 
+		Yıl : 2016
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	194. Mr. Smith Goes to Washington
+		Basroller :  James Stewart, Jean Arthur
+		Yönetmen : Frank Capra 
+		Yıl : 1939
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	195. Sherlock Jr.
+		Basroller :  Buster Keaton, Kathryn McGuire
+		Yönetmen : Buster Keaton 
+		Yıl : 1924
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	196. Salinui chueok
+		Basroller :  Song Kang-ho, Kim Sang-kyung
+		Yönetmen : Bong Joon Ho 
+		Yıl : 2003
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	197. Relatos salvajes
+		Basroller :  Darío Grandinetti, María Marull
+		Yönetmen : Damián Szifron 
+		Yıl : 2014
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	198. Det sjunde inseglet
+		Basroller :  Max von Sydow, Gunnar Björnstrand
+		Yönetmen : Ingmar Bergman 
+		Yıl : 1957
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	199. Room
+		Basroller :  Brie Larson, Jacob Tremblay
+		Yönetmen : Lenny Abrahamson 
+		Yıl : 2015
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	200. Mad Max: Fury Road
+		Basroller :  Tom Hardy, Charlize Theron
+		Yönetmen : George Miller 
+		Yıl : 2015
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	201. Mary and Max.
+		Basroller :  Toni Collette, Philip Seymour Hoffman
+		Yönetmen : Adam Elliot 
+		Yıl : 2009
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	202. How to Train Your Dragon
+		Basroller :  Jay Baruchel, Gerard Butler
+		Yönetmen : Dean DeBlois 
+		Yıl : 2010
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	203. The Big Lebowski
+		Basroller :  Jeff Bridges, John Goodman
+		Yönetmen : Joel Coen 
+		Yıl : 1998
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	204. Monsters, Inc.
+		Basroller :  Billy Crystal, John Goodman
+		Yönetmen : Pete Docter 
+		Yıl : 2001
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	205. Jaws
+		Basroller :  Roy Scheider, Robert Shaw
+		Yönetmen : Steven Spielberg 
+		Yıl : 1975
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	206. Dead Poets Society
+		Basroller :  Robin Williams, Robert Sean Leonard
+		Yönetmen : Peter Weir 
+		Yıl : 1989
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	207. La passion de Jeanne d'Arc
+		Basroller :  Maria Falconetti, Eugene Silvain
+		Yönetmen : Carl Theodor Dreyer 
+		Yıl : 1928
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	208. Tôkyô monogatari
+		Basroller :  Chishû Ryû, Chieko Higashiyama
+		Yönetmen : Yasujirô Ozu 
+		Yıl : 1953
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	209. Hotel Rwanda
+		Basroller :  Don Cheadle, Sophie Okonedo
+		Yönetmen : Terry George 
+		Yıl : 2004
+		İMDb Puanı : 8.1
+
+**************************************************
+
+	210. Ford v Ferrari
+		Basroller :  Matt Damon, Christian Bale
+		Yönetmen : James Mangold 
+		Yıl : 2019
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	211. Rocky
+		Basroller :  Sylvester Stallone, Talia Shire
+		Yönetmen : John G. Avildsen 
+		Yıl : 1976
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	212. Platoon
+		Basroller :  Charlie Sheen, Tom Berenger
+		Yönetmen : Oliver Stone 
+		Yıl : 1986
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	213. Spotlight
+		Basroller :  Mark Ruffalo, Michael Keaton
+		Yönetmen : Tom McCarthy 
+		Yıl : 2015
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	214. Stand by Me
+		Basroller :  Wil Wheaton, River Phoenix
+		Yönetmen : Rob Reiner 
+		Yıl : 1986
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	215. The Terminator
+		Basroller :  Arnold Schwarzenegger, Linda Hamilton
+		Yönetmen : James Cameron 
+		Yıl : 1984
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	216. Logan
+		Basroller :  Hugh Jackman, Patrick Stewart
+		Yönetmen : James Mangold 
+		Yıl : 2017
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	217. Ratatouille
+		Basroller :  Brad Garrett, Lou Romano
+		Yönetmen : Brad Bird 
+		Yıl : 2007
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	218. Rush
+		Basroller :  Daniel Brühl, Chris Hemsworth
+		Yönetmen : Ron Howard 
+		Yıl : 2013
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	219. Pather Panchali
+		Basroller :  Kanu Bannerjee, Karuna Bannerjee
+		Yönetmen : Satyajit Ray 
+		Yıl : 1955
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	220. Network
+		Basroller :  Faye Dunaway, William Holden
+		Yönetmen : Sidney Lumet 
+		Yıl : 1976
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	221. Into the Wild
+		Basroller :  Emile Hirsch, Vince Vaughn
+		Yönetmen : Sean Penn 
+		Yıl : 2007
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	222. The Wizard of Oz
+		Basroller :  Judy Garland, Frank Morgan
+		Yönetmen : Victor Fleming 
+		Yıl : 1939
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	223. Before Sunset
+		Basroller :  Ethan Hawke, Julie Delpy
+		Yönetmen : Richard Linklater 
+		Yıl : 2004
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	224. Groundhog Day
+		Basroller :  Bill Murray, Andie MacDowell
+		Yönetmen : Harold Ramis 
+		Yıl : 1993
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	225. The Exorcist
+		Basroller :  Ellen Burstyn, Max von Sydow
+		Yönetmen : William Friedkin 
+		Yıl : 1973
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	226. The Best Years of Our Lives
+		Basroller :  Myrna Loy, Dana Andrews
+		Yönetmen : William Wyler 
+		Yıl : 1946
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	227. The Incredibles
+		Basroller :  Craig T. Nelson, Samuel L. Jackson
+		Yönetmen : Brad Bird 
+		Yıl : 2004
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	228. To Be or Not to Be
+		Basroller :  Carole Lombard, Jack Benny
+		Yönetmen : Ernst Lubitsch 
+		Yıl : 1942
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	229. La battaglia di Algeri
+		Basroller :  Brahim Hadjadj, Jean Martin
+		Yönetmen : Gillo Pontecorvo 
+		Yıl : 1966
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	230. Hachi: A Dog's Tale
+		Basroller :  Richard Gere, Joan Allen
+		Yönetmen : Lasse Hallström 
+		Yıl : 2009
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	231. La haine
+		Basroller :  Vincent Cassel, Hubert Koundé
+		Yönetmen : Mathieu Kassovitz 
+		Yıl : 1995
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	232. Jai Bhim
+		Basroller :  Suriya, Lijo Mol Jose
+		Yönetmen : T.J. Gnanavel 
+		Yıl : 2021
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	233. Pirates of the Caribbean: The Curse of the Black Pearl
+		Basroller :  Johnny Depp, Geoffrey Rush
+		Yönetmen : Gore Verbinski 
+		Yıl : 2003
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	234. The Grapes of Wrath
+		Basroller :  Henry Fonda, Jane Darwell
+		Yönetmen : John Ford 
+		Yıl : 1940
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	235. Babam ve Oglum
+		Basroller :  Çetin Tekindor, Fikret Kuskan
+		Yönetmen : Çagan Irmak 
+		Yıl : 2005
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	236. Amores perros
+		Basroller :  Emilio Echevarría, Gael García Bernal
+		Yönetmen : Alejandro G. Iñárritu 
+		Yıl : 2000
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	237. Rebecca
+		Basroller :  Laurence Olivier, Joan Fontaine
+		Yönetmen : Alfred Hitchcock 
+		Yıl : 1940
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	238. Cool Hand Luke
+		Basroller :  Paul Newman, George Kennedy
+		Yönetmen : Stuart Rosenberg 
+		Yıl : 1967
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	239. Les quatre cents coups
+		Basroller :  Jean-Pierre Léaud, Albert Rémy
+		Yönetmen : François Truffaut 
+		Yıl : 1959
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	240. Everything Everywhere All at Once
+		Basroller :  Michelle Yeoh, Stephanie Hsu
+		Yönetmen : Dan Kwan 
+		Yıl : 2022
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	241. Ah-ga-ssi
+		Basroller :  Kim Min-hee, Ha Jung-woo
+		Yönetmen : Park Chan-wook 
+		Yıl : 2016
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	242. It Happened One Night
+		Basroller :  Clark Gable, Claudette Colbert
+		Yönetmen : Frank Capra 
+		Yıl : 1934
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	243. Persona
+		Basroller :  Bibi Andersson, Liv Ullmann
+		Yönetmen : Ingmar Bergman 
+		Yıl : 1966
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	244. The Sound of Music
+		Basroller :  Julie Andrews, Christopher Plummer
+		Yönetmen : Robert Wise 
+		Yıl : 1965
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	245. Life of Brian
+		Basroller :  Graham Chapman, John Cleese
+		Yönetmen : Terry Jones 
+		Yıl : 1979
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	246. Dersu Uzala
+		Basroller :  Maksim Munzuk, Yuriy Solomin
+		Yönetmen : Akira Kurosawa 
+		Yıl : 1975
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	247. Aladdin
+		Basroller :  Scott Weinger, Robin Williams
+		Yönetmen : Ron Clements 
+		Yıl : 1992
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	248. The Help
+		Basroller :  Viola Davis, Emma Stone
+		Yönetmen : Tate Taylor 
+		Yıl : 2011
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	249. The Iron Giant
+		Basroller :  Eli Marienthal, Harry Connick Jr.
+		Yönetmen : Brad Bird 
+		Yıl : 1999
+		İMDb Puanı : 8.0
+
+**************************************************
+
+	250. Gandhi
+		Basroller :  Ben Kingsley, John Gielgud
+		Yönetmen : Richard Attenborough 
+		Yıl : 1982
+		İMDb Puanı : 8.0
+
+**************************************************
+
