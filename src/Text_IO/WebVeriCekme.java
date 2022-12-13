@@ -5,8 +5,9 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.Scanner;
-
-public class WebdebViriCekme {
+//Muhammed Yasin Özdemir
+//171421005
+public class WebVeriCekme {
     public static String[] strip(char[] b,char c){ //method girlen karektere göre ayırır
         String[] d=new String[5];
         int kontrol=0;
@@ -20,7 +21,7 @@ public class WebdebViriCekme {
         }
         return d;
     }
-    public static String kes(char[] b,int bas,int son){ //belli aralık girilerek string verir
+    public static String kes(char[] b,int bas,int son){   //belli aralık girilerek string verir
         String newString="";
         for(int i=bas;i<son;i++)
             newString+=b[i];
@@ -46,25 +47,25 @@ public class WebdebViriCekme {
             Scanner scn=new Scanner(bufferedReader);
             String s="";
             System.out.println("Filmler yazılıyor...\n");
-            Thread.sleep(1000);
+            Thread.sleep(200);
             while (scn.hasNextLine()) {
                 s = scn.nextLine();
                 if (s.strip().endsWith("</a>")) {
                     if (s.strip().startsWith("title")) {
-                        String c=s.split("\"")[2];
-                        isimler.add(kes(c.toCharArray(),2,c.length()-4));
-                        String d=(strip(strip(s.split("\"")[1].toCharArray(),'(')[1].toCharArray(),',')[1]+strip(strip(s.split("\"")[1].toCharArray(),'(')[1].toCharArray(),',')[2]);
-                        basroller.add(kes(d.toCharArray(),1,d.length()));
-                        yonetmenler.add(strip(s.split("\"")[1].toCharArray(),'(')[0]);
+                        String isim=s.split("\"")[2];
+                        isimler.add(kes(isim.toCharArray(),2,isim.length()-4));   //İsimler alınıyor...
+                        String basrol=(strip(strip(s.split("\"")[1].toCharArray(),'(')[1].toCharArray(),',')[1]+strip(strip(s.split("\"")[1].toCharArray(),'(')[1].toCharArray(),',')[2]);
+                        basroller.add(kes(basrol.toCharArray(),1,basrol.length())); //Basroller alınıyor...
+                        yonetmenler.add(strip(s.split("\"")[1].toCharArray(),'(')[0]);  //Yonetmenler ekleniyor
                     }
                 }
                 if(s.strip().startsWith("<strong title")){
-                    String d=strip(s.toCharArray(),'>')[1];
-                    rating.add(kes(d.toCharArray(),1,d.length()-8));
+                    String imdb=strip(s.toCharArray(),'>')[1];
+                    rating.add(kes(imdb.toCharArray(),1,imdb.length()-8));  //İMDb puanı ekleniyor
                 }
                 if(s.strip().startsWith("<span class=\"secondaryInfo\"")){
-                    String d=s.split(">")[1].split("<")[0];
-                    yillar.add(kes(d.toCharArray(),1,d.length()-1));
+                    String yil=s.split(">")[1].split("<")[0];
+                    yillar.add(kes(yil.toCharArray(),1,yil.length()-1));    //İMDb puanı ekleniyor
                 }
             }
         } catch (FileNotFoundException e) {
@@ -82,7 +83,7 @@ public class WebdebViriCekme {
             System.out.println("\t\tYıl : "+ yillar.get(i));
             System.out.println("\t\tİMDb Puanı : "+rating.get(i)+"\n\n**************************************************\n");
             try {
-                Thread.sleep(100);
+                Thread.sleep(50);
             } catch (InterruptedException e) {
                 throw new RuntimeException(e);
             }
@@ -91,7 +92,7 @@ public class WebdebViriCekme {
 
         File file=new File("filmler.txt");
         try (FileWriter writer=new FileWriter(file)){
-            Thread.sleep(1200);
+            Thread.sleep(700);
             writer.write("********************* Filmler *********************\n\n");
             for(int i=0;i<isimler.size();i++) {
                 writer.write("\t" + (i + 1) + ". " + isimler.get(i)+"\n");
