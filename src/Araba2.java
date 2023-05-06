@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class Araba2 {
 
         private String renk;//Baska yerden erişememeyi saglarız
@@ -6,6 +8,8 @@ public class Araba2 {
         private String model;
     public void bilgileri_goster(){//Methodda tanımlanabilir
         System.out.println("Model:"+model+"\nMotor:"+motor+"\nTekerlek Sayısı:"+tekerlek+"\nRenk:"+renk);
+
+
     }
     public void setTekerlek(int tekerlek) {
         if (tekerlek>0)
